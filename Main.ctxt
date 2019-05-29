@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=s
+comment1.target=void\ textReader(java.lang.String)
+comment1.text=\ \n\ TextReader\n\ Terminology\:\n\ This\ is\ how\ a\ file\ will\ look\:\ \n\ {\ <start>\ \n\ \ \ Cat\ <verb>\ CS240\ Homework.;\n\ \ }\n\ \ {\ <verb>\n\ \ \ \ eats;\n\ \ \ \ kills;\n\ \ \ \ chomps;\n\ \ }\n\ Nonterminal/production\ rule\ set\:\ Enclosed\ by\ braces\ e.g.\ {\ <start>\ Cat\ <verb>\ CS240\ Homework.;}\n\ Nonterminal\:\ Enclosed\ by\ <\ >\ e.g.\ <start>\n\ Term\ List\:\ An\ array\ list,\ with\ everything\ on\ the\ right\ hand\ side\ of\ ONE\ rule\ e.g.\ [Cat\ <verb>\ CS240\ Homework.],\ or\ [eats]\n\ Production\ Rules\:\ An\ list\ of\ term\ lists,\ e.g.\ for\ <verb>,\ [[eats],[kills],[chomps]]\n\ \n\ @param\ s,\ a\ string\ which\ is\ the\ input\ file\ as\ a\ string.\n\ @return\ void,\ but\ parses\ the\ file\ and\ saves\ it\ in\ the\ map.\n
+comment2.params=
+comment2.target=void\ run()
+comment2.text=\ \n\ Run\ prints\ a\ random\ generation\ to\ the\ window.\n\ @param\ none\n\ @return\ none,\ but\ prints\ \n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ Main\ interacts\ with\ users,\ allowing\ them\ to\ create\ a\ random\ generation\ from\ their\ input\ file.\n\n\ @param\ none\n\ @return\ void\n
+numComments=4

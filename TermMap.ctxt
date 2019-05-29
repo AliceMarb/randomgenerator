@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TermMap
+comment1.params=input
+comment1.target=java.util.ArrayList\ deriveOneStep(Nonterminal)
+comment1.text=\n\ \ \ \ \ \ \ deriveOneStep\n\ \ \ \ \ \ \ @param\ nonterminal\ input\n\ \ \ \ \ \ \ @return\ picks\ one\ of\ the\ term\ lists\ in\ the\ production\ rule\ list\ associated\ in\ the\ map\ with\ the\ nonterminal\ input\n
+comment2.params=curDerivation
+comment2.target=java.lang.String\ randomDerive2(java.util.ArrayList)
+comment2.text=\n\ RANDOMDERIVE2\n\ @param\ Takes\ the\ current\ derivation\ of\ the\ string\ (i.e.\ stage\ including\ nonterminals\ and\ terminals)\n\ e.g.\ if\ S->\ A|B\ and\ A\ ->\ a,\ if\ we\ go\ from\ S\ to\ A,\ then\ our\ current\ derivation\ would\ be\ the\ ArrayList\ containing\ the\ Nonterminal\ term\ A.\n\ @return\ String\n
+numComments=3

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Nonterminal
+comment0.text=\n\ Write\ a\ description\ of\ class\ Nonterminal\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=name
+comment1.target=Nonterminal(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Nonterminal\n
+comment2.params=o
+comment2.target=boolean\ equals(java.lang.Object)
+comment2.text=\n\ Overwrites\ the\ equals\ method\ so\ two\ Nonterminals\ are\ the\ same\ if\ there\ name\ variable\ is\ the\ same\n\ @param\ Object\ o,\ a\ nonterminal\n\ @return\ true\ if\ this.name\ and\ o.name\ name\ are\ the\ same.\n
+comment3.params=
+comment3.target=int\ hashCode()
+comment3.text=\n\ Overwrites\ the\ hashCode\ method\ so\ two\ Nonterminals\ will\ ave\ the\ same\ hashCode\ in\ the\ HashMap\ if\ their\ names\ are\ the\ same\n\ @return\ the\ hascode\ of\ the\ instance\ variable,\ name.\n
+numComments=4
